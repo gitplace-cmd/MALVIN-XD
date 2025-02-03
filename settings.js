@@ -11,7 +11,7 @@ SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~w4xw1AaJ#J1RwUI00GdEGAZvVdZyIEL
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 
-BOT_NAME: process.env.BOT_NAME || "✦GOJO XIT🏙️",
+BOT_NAME: process.env.BOT_NAME || "GOJO XIT🏙️",
 // add bot name here for menu
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -56,7 +56,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by GOJO X!T 🚀🔥*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by GOJO XIT🚀🔥*",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
